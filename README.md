@@ -25,7 +25,6 @@ ___
 Other Logic
 
 * All nodes can only have 2 parents and 2 children (to be consistent with splitters in Factorio). If you try to make a third connection, the oldest connection will be deleted.
-* Right Clicking a node will select it. Right clicking a second node afterwards will connect both, making the first the parent.
 
 ___
 
@@ -35,6 +34,7 @@ Controls
 * Place a Regular Node by pressing 'N'
 
 * Select a node by right-clicking
+* If you select 2 nodes, the first become the parent to the second.
 * Move a node by left-click-dragging
 
 * Reset the numbers by pressing 'A'
