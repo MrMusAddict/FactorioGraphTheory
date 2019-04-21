@@ -2,7 +2,7 @@
 
 You can create 2 types of nodes:
 
-1. Input Node (starts with a value of 100)
+1. Input Node (starts with a random value between 0 and 500)
 2. Standard Node (starts with a value of 0)
 
 ___
